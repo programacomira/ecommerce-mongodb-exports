@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7de"
+  },
+  "clienteId": "C001",
+  "nombre": "Ana López",
+  "email": "ana.lopez@example.com",
+  "ciudad": "Madrid",
+  "membresia": "Premium",
+  "fechaRegistro": "2024-10-01",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7df"
+  },
+  "clienteId": "C002",
+  "nombre": "Juan Pérez",
+  "email": "juan.perez@example.com",
+  "ciudad": "Barcelona",
+  "membresia": "Estándar",
+  "fechaRegistro": "2024-11-15",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e0"
+  },
+  "clienteId": "C003",
+  "nombre": "María García",
+  "email": "maria.garcia@example.com",
+  "ciudad": "Valencia",
+  "membresia": "Premium",
+  "fechaRegistro": "2025-01-20",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e1"
+  },
+  "clienteId": "C004",
+  "nombre": "Pedro Sánchez",
+  "email": "pedro.sanchez@example.com",
+  "ciudad": "Sevilla",
+  "membresia": "Estándar",
+  "fechaRegistro": "2024-12-05",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e3"
+  },
+  "clienteId": "C006",
+  "nombre": "Luis Fernández",
+  "email": "luis.fernandez@example.com",
+  "ciudad": "Madrid",
+  "membresia": "Estándar",
+  "fechaRegistro": "2024-09-30",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e4"
+  },
+  "clienteId": "C007",
+  "nombre": "Elena Gómez",
+  "email": "elena.gomez@example.com",
+  "ciudad": "Barcelona",
+  "membresia": "Premium",
+  "fechaRegistro": "2025-03-01",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e5"
+  },
+  "clienteId": "C008",
+  "nombre": "Carlos Ruiz",
+  "email": "carlos.ruiz@example.com",
+  "ciudad": "Valencia",
+  "membresia": "Básica",
+  "fechaRegistro": "2024-11-01",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e6"
+  },
+  "clienteId": "C009",
+  "nombre": "Laura Díaz",
+  "email": "laura.diaz@example.com",
+  "ciudad": "Sevilla",
+  "membresia": "Estándar",
+  "fechaRegistro": "2025-01-10",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e7"
+  },
+  "clienteId": "C010",
+  "nombre": "Miguel Torres",
+  "email": "miguel.torres@example.com",
+  "ciudad": "Bilbao",
+  "membresia": "Premium",
+  "fechaRegistro": "2024-12-20",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e8"
+  },
+  "clienteId": "C011",
+  "nombre": "Clara Romero",
+  "email": "clara.romero@example.com",
+  "ciudad": "Madrid",
+  "membresia": "Básica",
+  "fechaRegistro": "2025-02-15",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7e9"
+  },
+  "clienteId": "C012",
+  "nombre": "David Moreno",
+  "email": "david.moreno@example.com",
+  "ciudad": "Barcelona",
+  "membresia": "Estándar",
+  "fechaRegistro": "2024-10-10",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7ea"
+  },
+  "clienteId": "C013",
+  "nombre": "Paula Jiménez",
+  "email": "paula.jimenez@example.com",
+  "ciudad": "Valencia",
+  "membresia": "Premium",
+  "fechaRegistro": "2025-03-05",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7eb"
+  },
+  "clienteId": "C014",
+  "nombre": "Jorge Navarro",
+  "email": "jorge.navarro@example.com",
+  "ciudad": "Sevilla",
+  "membresia": "Básica",
+  "fechaRegistro": "2024-11-20",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7ed"
+  },
+  "clienteId": "C016",
+  "nombre": "Rubén Vega",
+  "email": "ruben.vega@example.com",
+  "ciudad": "Madrid",
+  "membresia": "Premium",
+  "fechaRegistro": "2024-12-01",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7ee"
+  },
+  "clienteId": "C017",
+  "nombre": "Marta Herrera",
+  "email": "marta.herrera@example.com",
+  "ciudad": "Barcelona",
+  "membresia": "Básica",
+  "fechaRegistro": "2025-02-20",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7ef"
+  },
+  "clienteId": "C018",
+  "nombre": "Óscar Gil",
+  "email": "oscar.gil@example.com",
+  "ciudad": "Valencia",
+  "membresia": "Estándar",
+  "fechaRegistro": "2024-10-25",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7f0"
+  },
+  "clienteId": "C019",
+  "nombre": "Nuria Campos",
+  "email": "nuria.campos@example.com",
+  "ciudad": "Sevilla",
+  "membresia": "Premium",
+  "fechaRegistro": "2025-03-10",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de908a0eff47c3afce7f1"
+  },
+  "clienteId": "C020",
+  "nombre": "Iván Blanco",
+  "email": "ivan.blanco@example.com",
+  "ciudad": "Bilbao",
+  "membresia": "Básica",
+  "fechaRegistro": "2024-11-10",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685deccf077408ef4edd24c6"
+  },
+  "clienteId": "C023",
+  "nombre": "Marco Miranda",
+  "email": "marcomiranda@example.com",
+  "ciudad": "Guatemala",
+  "membresia": "Estándar",
+  "fechaRegistro": "2025-06-26",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685f60f3da8749e4aab41a8d"
+  },
+  "clienteId": "C021",
+  "nombre": "Carlos López",
+  "email": "roberto.lopez@example.com",
+  "ciudad": "Izabal",
+  "membresia": "Estándar",
+  "fechaRegistro": "2025-04-01",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685f60f3da8749e4aab41a8e"
+  },
+  "clienteId": "C022",
+  "nombre": "Isabel Gonzalez",
+  "email": "isabel.gonzalez@example.com",
+  "ciudad": "Huehuetenango",
+  "membresia": "Premium",
+  "fechaRegistro": "2025-04-05",
+  "registradoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685f60f3da8749e4aab41a8f"
+  },
+  "clienteId": "C023",
+  "nombre": "Fernando Paz",
+  "email": "fernando.paz@example.com",
+  "ciudad": "Alta Verapaz",
+  "membresia": "Básica",
+  "fechaRegistro": "2025-04-10",
+  "registradoPor": "mmiranda"
+}]

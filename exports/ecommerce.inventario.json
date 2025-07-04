@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce7f3"
+  },
+  "movimientoId": "M001",
+  "productoId": "PR001",
+  "tipo": "Entrada",
+  "cantidad": 20,
+  "fecha": "2024-12-01"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce7f5"
+  },
+  "movimientoId": "M003",
+  "productoId": "PR003",
+  "tipo": "Entrada",
+  "cantidad": 30,
+  "fecha": "2024-11-15"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce7f7"
+  },
+  "movimientoId": "M005",
+  "productoId": "PR005",
+  "tipo": "Entrada",
+  "cantidad": 15,
+  "fecha": "2025-01-20"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce7f9"
+  },
+  "movimientoId": "M007",
+  "productoId": "PR007",
+  "tipo": "Entrada",
+  "cantidad": 10,
+  "fecha": "2024-12-20"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce7fb"
+  },
+  "movimientoId": "M009",
+  "productoId": "PR009",
+  "tipo": "Entrada",
+  "cantidad": 40,
+  "fecha": "2025-01-10"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce7fe"
+  },
+  "movimientoId": "M012",
+  "productoId": "PR002",
+  "tipo": "Entrada",
+  "cantidad": 100,
+  "fecha": "2024-11-30"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce800"
+  },
+  "movimientoId": "M014",
+  "productoId": "PR004",
+  "tipo": "Entrada",
+  "cantidad": 10,
+  "fecha": "2025-03-10"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce802"
+  },
+  "movimientoId": "M016",
+  "productoId": "PR006",
+  "tipo": "Entrada",
+  "cantidad": 30,
+  "fecha": "2024-12-10"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce804"
+  },
+  "movimientoId": "M018",
+  "productoId": "PR008",
+  "tipo": "Entrada",
+  "cantidad": 8,
+  "fecha": "2025-03-15"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce806"
+  },
+  "movimientoId": "M020",
+  "productoId": "PR010",
+  "tipo": "Entrada",
+  "cantidad": 5,
+  "fecha": "2024-11-25"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce807"
+  },
+  "movimientoId": "M021",
+  "productoId": "PR001",
+  "tipo": "Entrada",
+  "cantidad": 25,
+  "fecha": "2025-02-01"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce809"
+  },
+  "movimientoId": "M023",
+  "productoId": "PR003",
+  "tipo": "Entrada",
+  "cantidad": 15,
+  "fecha": "2025-01-05"
+},
+{
+  "_id": {
+    "$oid": "685de90fa0eff47c3afce80b"
+  },
+  "movimientoId": "M025",
+  "productoId": "PR005",
+  "tipo": "Entrada",
+  "cantidad": 20,
+  "fecha": "2025-03-05"
+},
+{
+  "_id": {
+    "$oid": "685df0bc077408ef4edd24c9"
+  },
+  "movimientoId": "M026",
+  "productoId": "PR001",
+  "tipo": "Entrada",
+  "cantidad": 10,
+  "fecha": "2025-06-26"
+}]

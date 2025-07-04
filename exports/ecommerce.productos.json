@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce82c"
+  },
+  "productoId": "PR001",
+  "nombre": "Laptop HP",
+  "categoria": "Electrónica",
+  "precio": 500,
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce82d"
+  },
+  "productoId": "PR002",
+  "nombre": "Mouse Logitech",
+  "categoria": "Accesorios",
+  "precio": 30,
+  "stock": 200
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce82e"
+  },
+  "productoId": "PR003",
+  "nombre": "Smartphone Samsung",
+  "categoria": "Electrónica",
+  "precio": 350,
+  "stock": 80
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce82f"
+  },
+  "productoId": "PR004",
+  "nombre": "Silla Ergonómica",
+  "categoria": "Muebles",
+  "precio": 145,
+  "stock": 30,
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce830"
+  },
+  "productoId": "PR005",
+  "nombre": "Mesa de Escritorio",
+  "categoria": "Muebles",
+  "precio": 95,
+  "stock": 40,
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce831"
+  },
+  "productoId": "PR006",
+  "nombre": "Teclado Mecánico",
+  "categoria": "Accesorios",
+  "precio": 80,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce832"
+  },
+  "productoId": "PR007",
+  "nombre": "Tablet Lenovo",
+  "categoria": "Electrónica",
+  "precio": 200,
+  "stock": 60
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce833"
+  },
+  "productoId": "PR008",
+  "nombre": "Monitor LG",
+  "categoria": "Electrónica",
+  "precio": 250,
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce834"
+  },
+  "productoId": "PR009",
+  "nombre": "Auriculares Sony",
+  "categoria": "Accesorios",
+  "precio": 120,
+  "stock": 150
+},
+{
+  "_id": {
+    "$oid": "685de91ba0eff47c3afce835"
+  },
+  "productoId": "PR010",
+  "nombre": "Impresora Canon",
+  "categoria": "Electrónica",
+  "precio": 180,
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "685df017077408ef4edd24c8"
+  },
+  "productoId": "PR011",
+  "nombre": "Webcam HD",
+  "categoria": "Accesorios",
+  "precio": 50,
+  "stock": 100
+}]

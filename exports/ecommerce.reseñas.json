@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce837"
+  },
+  "reseñaId": "R001",
+  "productoId": "PR001",
+  "clienteId": "C001",
+  "puntuacion": 7,
+  "comentario": "Excelente producto, muy recomendable.",
+  "fecha": "2025-01-10",
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce838"
+  },
+  "reseñaId": "R002",
+  "productoId": "PR002",
+  "clienteId": "C002",
+  "puntuacion": 6,
+  "comentario": "Buen producto",
+  "fecha": "2025-01-15"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce839"
+  },
+  "reseñaId": "R003",
+  "productoId": "PR003",
+  "clienteId": "C003",
+  "puntuacion": 5,
+  "comentario": "Regular",
+  "fecha": "2025-02-20"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce83a"
+  },
+  "reseñaId": "R004",
+  "productoId": "PR004",
+  "clienteId": "C004",
+  "puntuacion": 7,
+  "comentario": "Muy cómodo",
+  "fecha": "2025-03-25"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce83b"
+  },
+  "reseñaId": "R005",
+  "productoId": "PR005",
+  "clienteId": "C005",
+  "puntuacion": 5,
+  "comentario": "No dura mucho",
+  "fecha": "2025-04-05",
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce83c"
+  },
+  "reseñaId": "R006",
+  "productoId": "PR006",
+  "clienteId": "C006",
+  "puntuacion": 6,
+  "comentario": "Buen diseño",
+  "fecha": "2025-01-20"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce83d"
+  },
+  "reseñaId": "R007",
+  "productoId": "PR007",
+  "clienteId": "C007",
+  "puntuacion": 7,
+  "comentario": "Perfecto para trabajo",
+  "fecha": "2025-02-25"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce83e"
+  },
+  "reseñaId": "R008",
+  "productoId": "PR008",
+  "clienteId": "C008",
+  "puntuacion": 5,
+  "comentario": "Aceptable",
+  "fecha": "2025-03-10"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce83f"
+  },
+  "reseñaId": "R009",
+  "productoId": "PR009",
+  "clienteId": "C009",
+  "puntuacion": 6,
+  "comentario": "Gran sonido",
+  "fecha": "2025-01-30"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce840"
+  },
+  "reseñaId": "R010",
+  "productoId": "PR010",
+  "clienteId": "C010",
+  "puntuacion": 5,
+  "comentario": "Lento",
+  "fecha": "2025-02-15",
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce841"
+  },
+  "reseñaId": "R011",
+  "productoId": "PR001",
+  "clienteId": "C011",
+  "puntuacion": 7,
+  "comentario": "Recomendado",
+  "fecha": "2025-03-20"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce842"
+  },
+  "reseñaId": "R012",
+  "productoId": "PR002",
+  "clienteId": "C012",
+  "puntuacion": 6,
+  "comentario": "Funcional",
+  "fecha": "2025-01-25"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce843"
+  },
+  "reseñaId": "R013",
+  "productoId": "PR003",
+  "clienteId": "C013",
+  "puntuacion": 5,
+  "comentario": "Normal",
+  "fecha": "2025-02-10"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce844"
+  },
+  "reseñaId": "R014",
+  "productoId": "PR004",
+  "clienteId": "C014",
+  "puntuacion": 7,
+  "comentario": "Estupendo",
+  "fecha": "2025-03-05"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce845"
+  },
+  "reseñaId": "R015",
+  "productoId": "PR005",
+  "clienteId": "C015",
+  "puntuacion": 4,
+  "comentario": "Mala calidad",
+  "fecha": "2025-04-10",
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce846"
+  },
+  "reseñaId": "R016",
+  "productoId": "PR006",
+  "clienteId": "C016",
+  "puntuacion": 6,
+  "comentario": "Cómodo",
+  "fecha": "2025-01-15"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce847"
+  },
+  "reseñaId": "R017",
+  "productoId": "PR007",
+  "clienteId": "C017",
+  "puntuacion": 7,
+  "comentario": "Gran compra",
+  "fecha": "2025-02-20"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce848"
+  },
+  "reseñaId": "R018",
+  "productoId": "PR008",
+  "clienteId": "C018",
+  "puntuacion": 5,
+  "comentario": "Pasable",
+  "fecha": "2025-03-15"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce849"
+  },
+  "reseñaId": "R019",
+  "productoId": "PR009",
+  "clienteId": "C019",
+  "puntuacion": 6,
+  "comentario": "Buen producto",
+  "fecha": "2025-01-20"
+},
+{
+  "_id": {
+    "$oid": "685de922a0eff47c3afce84a"
+  },
+  "reseñaId": "R020",
+  "productoId": "PR010",
+  "clienteId": "C020",
+  "puntuacion": 5,
+  "comentario": "No recomendado",
+  "fecha": "2025-02-25",
+  "actualizadoPor": "mmiranda"
+},
+{
+  "_id": {
+    "$oid": "685df136077408ef4edd24ca"
+  },
+  "reseñaId": "R021",
+  "productoId": "PR001",
+  "clienteId": "C023",
+  "puntuacion": 6,
+  "comentario": "El producto es bueno, hay mejores.",
+  "fecha": "2025-06-26"
+}]
